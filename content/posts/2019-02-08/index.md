@@ -9,7 +9,7 @@ published: true
 
 ---
 
-![](../2019-02-08/main.jpg ){:height="700px" width="400px"}
+![](../2019-02-08/main.jpg )
 
 
 
