@@ -16,7 +16,7 @@ const colors = {
     dark: '#284187',
   },
   background: {
-    light: '#3e5fbc',
+    light: '#bc3e4f',
     dark: '#284187',
   },
 };
